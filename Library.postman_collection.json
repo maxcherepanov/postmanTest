@@ -226,7 +226,7 @@
 			"response": []
 		},
 		{
-			"name": "delete library",
+			"name": "delete library maxim",
 			"request": {
 				"method": "DELETE",
 				"header": [],
